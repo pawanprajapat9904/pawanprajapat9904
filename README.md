@@ -11,7 +11,7 @@ I'm a passionate Full Stack Developer (Fresher) specializing in building full-st
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js) 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
 
-📫 Reach me: pawanprajapat9904@gmail.com  
+📫 Reach me: pawan.prajapat9904@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/pawan-prajapat-/) 
 
 
